@@ -1,7 +1,7 @@
 # 💊 Automated Pill Dispenser
 
-An **IoT-based Automated Pill Dispenser** designed to ensure accurate and timely medication intake.  
-This project helps elderly people, patients with chronic illnesses, and busy individuals by dispensing pills automatically at scheduled times with **alerts and sensors**.  
+- An **IoT-based Automated Pill Dispenser** designed to ensure accurate and timely medication intake.  
+- This project helps elderly people, patients with chronic illnesses, and busy individuals by dispensing pills automatically at scheduled times with **alerts and sensors**.  
 
 ---
 
@@ -71,7 +71,5 @@ This ensures **accuracy, safety, and independence** for patients.
 ---
 
 ## 🏆 Conclusion
-The **Automated Pill Dispenser** ensures that patients never miss their medication, improves health outcomes, and provides peace of mind for caregivers.  
-This project combines **IoT, healthcare, and automation** for a practical real-world solution.  
-
-
+- The **Automated Pill Dispenser** ensures that patients never miss their medication, improves health outcomes, and provides peace of mind for caregivers.  
+- This project combines **IoT, healthcare, and automation** for a practical real-world solution.
