@@ -8,7 +8,7 @@
 ## 👥 Team Members
 - 🧑‍💻 J. Mithun – 23911A1227  
 - 🧑‍💻 K. Vivek – 23911A1235  
-- 🧑‍💻 M. Raghavendar – 23911A1242  
+- 🧑‍💻 M. Raghavendra – 23911A1242  
 - 🧑‍💻 S. Bharathkumar – 23911A1254  
 
 ---
